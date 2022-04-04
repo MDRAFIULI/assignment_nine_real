@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Z Air Conditioner
+## Live website:https://strong-fudge-334e11.netlify.app/
+## git ripo: https://github.com/programming-hero-web-course-4/product-analysis-website-MDRAFIULI
+
+## What's job i have done in this projects
+* add react route and use spa
+* display review in Home & Review component
+* use rechart
+* Answer 2 question among 3
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
