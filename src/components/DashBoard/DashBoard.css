@@ -1,0 +1,7 @@
+.dash-board{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.dash-board h3{
+margin-left: 60px;
+}
