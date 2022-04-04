@@ -14,6 +14,8 @@
 .first-intro h2{
     font-size: 45px;
     color: brown;
+    text-align: left;
+    margin-top: 0px;
 }
 .first-intro p{
     font-weight: 600;
