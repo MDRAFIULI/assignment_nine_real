@@ -1,0 +1,12 @@
+.review{
+    /* border: 1px solid gray; */
+    background-color: rgb(248, 245, 245);
+    border-radius: 7px;
+    padding-left: 30px;
+    width: 250px;
+    height: 250px;
+    box-shadow: 5px 10px #888888;
+}
+.review h3{
+color: orangered;
+}

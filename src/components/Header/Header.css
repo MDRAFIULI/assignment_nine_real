@@ -1,7 +1,11 @@
 .link-container{
-    text-align: center;    
+    text-align: center;  
+    background-color: lightsalmon;
+    height: 90px;  
+    padding-top: 20px;
 }
 .link-container a{
 text-decoration: none;
 margin-left: 20px;
+color: black;
 }

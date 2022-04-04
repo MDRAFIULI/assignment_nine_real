@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "comment": "The service of this company is fantastic",
+        "name": "sheik abdus salam",
+        "ratings": 5
+    },
+    {
+        "id": 2,
+        "comment": "this company is not bed",
+        "name": "sihab ali",
+        "ratings": 3
+    },
+    {
+        "id": 3,
+        "comment": "good job",
+        "name": "salim hyder",
+        "ratings": 5
+    },
+    {
+        "id": 4,
+        "comment": "open a branch in our area",
+        "name": "abidul islam chowdhury",
+        "ratings": 4
+    },
+    {
+        "id": 5,
+        "comment": "this company is not bed",
+        "name": "sabbir kobir toha",
+        "ratings": 4.5
+    },
+    {
+        "id": 6,
+        "comment": "The service of this company is fantastic",
+        "name": "kasem khan",
+        "ratings": 5
+    }
+]
